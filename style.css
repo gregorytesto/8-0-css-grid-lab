@@ -2,6 +2,10 @@
 
 /* Do not change the CSS below. */
 
+body{
+ display:none; 
+}
+
 .header {
   background: #4242ea;
 }
